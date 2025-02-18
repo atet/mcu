@@ -1,4 +1,4 @@
-# [atet](https://github.com/atet) / [learn](https://github.com/atet/learn/blob/master/README.md#atet--learn) / [**_mcu_**](https://github.com/atet/learn/blob/master/mcu/README.md#atet--learn--mcu)
+# [atet](https://github.com/atet) / [**_mcu_**](https://github.com/atet/mcu?tab=readme-ov-file#atet--mcu)
 
 [![.img/logo_rp2040.jpg](.img/logo_rp2040.jpg)](#nolink)
 
